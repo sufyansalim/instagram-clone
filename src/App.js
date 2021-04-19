@@ -160,9 +160,7 @@ function App() {
       )}
       </div>
 
-      
-
-        <h1>Hello People 🚀 </h1>
+    
 
         <div className="app__posts">
           <div className="app__postsLeft">
@@ -177,8 +175,8 @@ function App() {
           </div>
           <div className="app__postsRight">
               <InstagramEmbed
-              url='post-url'
-              clientAccessToken='appid|client key'
+              url='https://www.instagram.com/p/CMuLGUWjRRE/'
+              clientAccessToken='1355233698209190|fd5eb6340c99f7abfa75f9ef3bc79130'
               maxWidth={320}
               hideCaption={false}
               containerTagName='div'
